@@ -1,4 +1,4 @@
-# Practice-dashboards-Sales-Performance-Dashboard-
+# Sales-Performance-Dashboard-
 A modern Sales Performance Dashboard that tracks revenue, order volume, regional performance, and product-wise sales. Designed for sales managers and business analysts to monitor real-time performance across channels and regions.
 ### 2. Sales Performance Dashboard
 <img width="1168" height="740" alt="preview" src="https://github.com/user-attachments/assets/011623fc-fdf2-489a-a4db-e6723cb38995" />
